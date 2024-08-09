@@ -32,3 +32,10 @@ Us, Services, Details, Results, Tips and Hacks and Welcome. These improve the
 usability and interactivity of the entire website. Examples include dynamic flip cards
 that offer fascinating insights and a seamless Go Back button.
 
+## Snapshots
+![IMMM](https://github.com/user-attachments/assets/4bc0bd23-95fa-4815-bd4a-471386c3a0d1)
+![image](https://github.com/user-attachments/assets/b4c6291c-0483-4b59-8658-41f22bcdd07f)
+![image](https://github.com/user-attachments/assets/ca697725-e7c5-456a-be72-829478f5b75f)
+![image](https://github.com/user-attachments/assets/fc8aa9eb-5338-40c9-a556-650f2fb7842a)
+![image](https://github.com/user-attachments/assets/b6412435-c967-4df7-82d1-768daa0bf4b8)
+![image](https://github.com/user-attachments/assets/fab5c72a-aa91-4c99-8099-c861144cdab3)
